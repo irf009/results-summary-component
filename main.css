@@ -147,7 +147,7 @@ body {
 }
 .btn:hover {
   background-color: hsl(222, 31%, 15%);
-  transition: all 0.3s;
+  transition: all 0.4s;
 }
 p {
   font-size: 18px;
