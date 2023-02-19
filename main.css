@@ -134,7 +134,7 @@ body {
   border-radius: 40px;
   font-weight: 500;
   font-size: 20px;
-  transition: transform 0.2s;
+  transition: background-color 0.3s ease-in-out;
   margin: auto;
   border: none;
 }
@@ -147,7 +147,6 @@ body {
 }
 .btn:hover {
   background-color: hsl(222, 31%, 15%);
-  transition: all 0.4s;
 }
 p {
   font-size: 18px;
