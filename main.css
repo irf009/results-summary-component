@@ -136,6 +136,7 @@ body {
   font-size: 20px;
   transition: background-color 0.3s ease-in-out;
   margin: auto;
+  cursor: pointer;
   border: none;
 }
 .btn p {
@@ -143,7 +144,6 @@ body {
   justify-content: center;
   padding-top: 17px;
   align-items: center;
-  cursor: pointer;
 }
 .btn:hover {
   background-color: hsl(222, 31%, 15%);
